@@ -1,0 +1,119 @@
+raça
+etnia
+cor
+branca
+preta
+negra
+parda
+amarela
+indígena
+orientação sexual
+heterossexual
+heteroafetivo
+homossexual
+homoafetivo
+bissexual
+transexual
+religião
+espiritualidade
+crença
+fé
+católica
+evangélica
+protestante
+budismo
+candomblé
+espírita
+espiritualista
+hinduísmo
+islamismo
+muçulmana
+judaísmo
+igreja messiânica mundial
+religiões orientais
+testemunhas de jeová
+tradições esotéricas
+tradições indígenas
+umbanda
+religião afrobrasileira
+cristãs
+ateu
+partido político
+convicção política
+posicionamento político
+filiação política
+filiação partidária
+(mdb)
+(pt)
+(psdb)
+(pp)
+(pdt)
+(ptb)
+(dem)
+(pl)
+(psb)
+(psl)
+(psc)
+(republicanos)
+(cidadania)
+(pcdob)
+(pode)
+(psd)
+(pv)
+(patriota)
+(sd)
+(pmn)
+(avante)
+(ptc)
+(psol)
+(dc)
+(prtb)
+(pros)
+(pmb)
+(novo)
+(rede)
+(pstu)
+(pcb)
+(pco)
+(up)
+(prp)
+(pen)
+(prb)
+(ppl)
+(phs)
+(ptdob)
+(prona)
+(pan)
+(ppb)
+(prn)
+(pfl)
+(pgt)
+(pmr)
+(pst)
+posicionamento filosófico
+convicção filosófica
+direita
+centro
+esquerda
+centro-direita
+centro-esquerda
+conservadora
+progressista
+extrema-esquerda
+extrema-direita
+radical
+liberal
+trabalhista
+tipo sanguíneo
+genética
+pcd
+cid
+cid-10
+biometria
+cadastro biométrico
+atestado
+licença
+gravidez
+maternidade
+sindicato
+filiação sindical

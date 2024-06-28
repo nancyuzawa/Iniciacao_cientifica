@@ -1,0 +1,421 @@
+documento
+número do documento
+numero do documento
+rg
+r\.g\.
+registro geral
+número do r\.g\.
+numero do r\.g\.
+carteira de identidade
+identidade
+número de identidade
+numero de identidade
+documento de identidade
+cpf
+c\.p\.f\.
+cadastro de pessoa física
+número do c\.p\.f\.
+cnh
+c\.n\.h\.
+habilitação
+habilitacao
+carteira nacional de habilitação
+carteira nacional de habilitacao
+carteira de motorista
+reservista
+título de eleitor
+titulo de eleitor
+número do título de eleitor
+numero do título de eleitor
+passaporte
+número do passaporte
+numero do passaporte
+pis
+p\.i\.s\.
+número do pis
+numero do pis
+ctps
+c\.t\.p\.s\.
+carteira de trabalho
+número da carteira de trabalho
+numero da carteira de trabalho
+carteira profissional
+certidão de casamento
+responsável legal
+nome do responsável legal
+inscrição municipal
+inscricao municipal
+inscrição estadual
+inscricao estadual
+nome
+nome social
+nome completo
+data de nascimento
+idade
+anos
+estado civil
+casado
+separado judicialmente
+desquitado
+solteiro
+viúvo
+viuvo
+divorciado
+união estável
+uniao estavel
+nacionalidade
+brasileira
+estrangeira
+sexo
+gênero
+genero
+masculino
+feminino
+naturalidade
+componentes familiares
+cônjuge
+conjuge
+nome do cônjuge
+nome do conjuge
+companheiro
+nome do companheiro
+pai
+nome do pai
+mãe
+mae
+nome da mãe
+nome da mae
+filhos
+nome do filho
+nome dos filhos
+aposentado
+pensionista
+número da conta
+tipo de conta
+poupança
+poupanca
+conta-corrente
+conta corrente
+conta salário
+conta salario
+conta universitário
+conta universitario
+conta digital
+conta fácil
+agência
+agencia
+agência bancária
+agencia bancaria
+número da agência
+numero da agencia
+banco
+fgts
+f\.g\.t\.s\.
+número do fgts
+numero do fgts
+renda
+rendimentos
+remuneração
+remuneracao
+salário
+salario
+salário-mínimo
+salario-minimo
+bônus
+bonus
+benefícios
+beneficios
+auxílio
+auxilio
+carga horária
+carga horaria
+horas extras
+horas de trabalho
+horário de trabalho
+horario de trabalho
+empresa
+firma
+cargo
+profissão
+profissao
+ocupação
+ocupacao
+trabalho
+emprego
+telefone
+número de telefone
+numero de telefone
+celular
+número de celular
+numero de celular
+fax
+email
+e-mail
+endereço de e-mail
+endereço eletrônico
+domicílio
+domicilio
+residência
+residencia
+casa
+apartamento
+alugado
+próprio
+proprio
+urbana
+rural
+endereço
+endereco
+cep
+rua
+avenida
+travessa
+bairro
+cidade
+estado
+país
+logradouro
+uf
+u\.f\.
+unidade federativa
+complemento
+formação
+formacao
+escolaridade
+analfabeto
+ensino fundamental
+ensino médio
+ensino superior
+graduação
+graduacao
+pós-graduação
+pos-graduacao
+estágio
+estagio
+regime trabalhista
+regime de trabalho
+clt
+c\.l\.t\.
+celetista
+estatuário
+estatuario
+contratado
+temporário
+temporario
+estagiário
+estagiario
+jovem aprendiz
+terceirizado
+pessoa jurídica
+pessoa juridica
+freelancer
+autônomo
+autonomo
+profissional liberal
+cookies
+ip
+localização
+localizacao
+raça
+raca
+etnia
+cor
+branca
+preta
+negra
+parda
+amarela
+indígena
+indigena
+orientação sexual
+orientacao sexual
+heterossexual
+heteroafetivo
+homossexual
+homoafetivo
+bissexual
+transexual
+religião
+religiao
+espiritualidade
+crença
+crenca
+fé
+fe
+católica
+catolica
+evangélica
+evangelica
+protestante
+budismo
+candomblé
+candomble
+espírita
+espirita
+espiritualista
+hinduísmo
+hinduismo
+islamismo
+muçulmana
+muculmana
+judaísmo
+judaismo
+igreja messiânica mundial
+igreja messianica mundial
+religiões orientais
+religioes orientais
+testemunhas de jeová
+testemunhas de jeova
+tradições esotéricas
+tradicoes esotericas
+tradições indígenas
+tradicoes indigenas
+umbanda
+religião afrobrasileira
+religiao afrobrasileira
+cristãs
+cristas
+ateu
+partido político
+partido politico
+convicção política
+conviccao politica
+posicionamento político
+posicionamento politico
+filiação política
+filiacao politica
+filiação partidária
+filiacao partidaria
+\(mdb\)
+movimento democrático brasileiro
+\(pt\)
+partido dos trabalhadores
+\(psdb\)
+partido da social democracia brasileira
+\(pp\)
+progressistas
+\(pdt\)
+partido democrático trabalhista
+\(ptb\)
+partido trabalhista brasileiro
+\(dem\)
+democratas
+\(pl\)
+partido liberal
+\(psb\)
+partido socialista brasileiro
+\(psl\)
+partido social liberal
+\(psc\)
+partido social cristão
+\(republicanos\)
+\(cidadania\)
+\(pcdob\)
+\(pc do b\)
+partido comunista do brasil
+\(pode\)
+podemos
+\(psd\)
+partido social democrático
+\(pv\)
+partido verde
+\(patriota\)
+\(sd\)
+\(solidariedade\)
+\(pmn\)
+partido da mobilização nacional
+\(avante\)
+\(ptc\)
+partido trabalhista cristão
+\(psol\)
+partido socialismo e liberdade
+\(dc\)
+\(psdc\)
+democracia cristã
+\(prtb\)
+partido renovador trabalhista brasileiro
+\(pros\)
+partido republicano da ordem social
+\(pmb\)
+partido da mulher brasileira
+\(novo\)
+partido novo
+\(rede\)
+rede sustentabilidade
+\(pstu\)
+partido socialista dos trabalhadores unificado
+\(pcb\)
+partido comunista brasileiro
+\(pco\)
+partido da causa operária
+\(up\)
+unidade popular
+\(prp\)
+partido republicano progressista
+\(pen\)
+partido ecológico nacional
+\(prb\)
+partido republicano brasileiro
+\(ppl\)
+partido pátria livre
+\(phs\)
+partido humanista da solidariedade
+\(ptdob\)
+\(pt do b\)
+partido trabalhista do brasil
+\(prona\)
+partido de reedificação da ordem nacional
+\(pan\)
+partido dos aposentados da nação
+\(ppb\)
+partido progressista brasileiro
+\(prn\)
+partido da reconstrução nacional
+\(pfl\)
+partido da frente liberal
+\(pgt\)
+partido geral dos trabalhadores
+\(pmr\)
+partido municipalista brasileiro
+\(pst\)
+partido social trabalhista
+posicionamento filosófico
+posicionamento filosofico
+convicção filosófica
+conviccao filosofica
+direita
+centro
+esquerda
+centro-direita
+centro-esquerda
+conservadora
+progressista
+extrema-esquerda
+extrema-direitra
+radical
+liberal
+trabalhista
+tipo sanguíneo
+tipo sanguineo
+genética
+genetica
+pcd
+p\.c\.d\.
+pessoa com deficiência
+pessoa com deficiencia
+cid
+c\.i\.d\.
+classificação internacional de doenças
+classificacao internacional de doencas
+cid-10
+biometria
+cadastro biométrico
+cadastro biometrico
+atestado
+licença
+licenca
+gravidez
+maternidade
+sindicato
+filiação sindical
+filiacao sindical

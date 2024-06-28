@@ -1,0 +1,7 @@
+http://www.campinas.sp.gov.br/
+http://www.campinas.sp.gov.br/comunicado.html
+http://licitacoes.campinas.sp.gov.br/listar.php?ano=2019&titulo=Concorr%C3%AAncia&order=licitacao_nome,nro_licitacao%20desc&table=t_licitacoes&id_tipo=2
+https://covid-19.campinas.sp.gov.br/
+http://conteudo.campinas.sp.gov.br/sites/conteudo.campinas.sp.gov.br/files/arquivo-comunicacao/05-2020/informacoes-cadastro-unico-e-programas-tr-para-atualizar-banner-07-mai-fundoverde-2020.pdf
+http://www.campinas.sp.gov.br/servicos2.php?tipo=cidadao
+http://www.campinas.sp.gov.br/servicos2.php?tipo=empresa

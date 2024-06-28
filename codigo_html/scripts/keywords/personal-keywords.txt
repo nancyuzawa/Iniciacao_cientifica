@@ -1,0 +1,124 @@
+documento
+rg
+identidade
+cpf
+cnh
+reservista
+título de eleitor
+passaporte
+pis
+ctps
+responsável legal
+inscrição municipal
+inscrição estadual
+nome
+nome social
+nome completo
+data de nascimento
+idade
+anos
+certidão de casamento
+estado civil
+casado
+separado judicialmente
+desquitado
+solteiro
+viúvo
+divorciado
+união estável
+nacionalidade
+brasileira
+estrangeira
+sexo
+gênero
+masculino
+feminino
+naturalidade
+componentes familiares
+cônjuge
+companheiro
+pai
+mãe
+filhos
+nome do filho
+aposentado
+pensionista
+número da conta
+tipo de conta
+poupança
+conta-corrente
+conta salário
+conta universitário
+conta digital
+conta fácil
+agência
+banco
+fgts
+renda
+rendimentos
+remuneração
+salário
+salário-mínimo
+bônus
+benefícios
+auxílio
+carga horária
+horas extras
+horas de trabalho
+horário de trabalho
+empresa
+firma
+cargo
+profissão
+ocupação
+trabalho
+emprego
+telefone
+celular
+email
+fax
+domicílio
+residência
+casa
+apartamento
+alugado
+próprio
+urbana
+rural
+endereço
+cep
+rua
+avenida
+travessa
+bairro
+cidade
+estado
+logradouro
+uf
+país
+complemento
+formação
+escolaridade
+analfabeto
+ensino fundamental
+ensino médio
+ensino superior
+graduação
+pós-graduação
+estágio
+regime trabalhista
+regime de trabalho
+clt
+estatuário
+contratado
+temporário
+estagiário
+jovem aprendiz
+terceirizado
+pessoa jurídica
+freelancer
+autônomo
+profissional liberal
+cookies
+ip
+localização
