@@ -2,8 +2,6 @@ from bs4 import BeautifulSoup
 
 ## Limpa ou remove elementos específicos do HTML com base na presença de certos padrões na URL e no conteúdo do HTML.
 class Enhance:
-    soup = BeautifulSoup(html, 'html.parser') if url.find('cpat') != -1 \
-        else BeautifulSoup(html, 'lxml')
 
     def enhance_html(self, url, html): # recebe parâmetros para url (a URL da página) e html (o conteúdo HTML da página).
 
