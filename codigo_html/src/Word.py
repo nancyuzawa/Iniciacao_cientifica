@@ -1,12 +1,15 @@
+# Essa classe ategoriza palavras e valida palavras específicas.
 class Word:
 
+    # Método:  Classifica uma palavra como pessoal ou sensível com base em listas de palavras-chave carregadas de arquivos.
     def categorize_word(self, word):
-        personal_keywords = open('scripts/keywords/personal-keywords.txt', encoding='UTF-8').read().splitlines()
+        # Transforma o arquivo .txt que está um embaixo do outro em uma lista
+        personal_keywords = open('scripts/keywords/personal-keywords.txt', encoding='UTF-8').read().splitlines() # splitlines() -> dividir uma string em uma lista de linhas.
         sensible_keywords = open('scripts/keywords/sensible-keywords.txt', encoding='UTF-8').read().splitlines()        
-        weight = 0
+        weight = 0 #  atribui um peso à palavra, dependendo de qual lista ela pertence.
 
-        for element in personal_keywords:
-            if element == word.lower():
+        for element in personal_keywords: # iterando sobre cada palavra em personal_keywords
+            if element == word.lower(): # compara com a word convertida para minúsculas
                 weight = 1
                 return weight
         
@@ -15,6 +18,7 @@ class Word:
                 weight = 3
                 return weight
 
+    # Método: Valida e categoriza uma palavra com base em várias listas de palavras-chave específicas para diferentes tipos de documentos ou termos.
     def word_validation(self, word):
         listRG = ['r\.g\.', 'registro geral', 'número do r\.g\.', 'numero do r\.g\.']
         listID = ['carteira de identidade', 'número de identidade', 'numero de identidade', 'documento de identidade']
@@ -25,8 +29,11 @@ class Word:
         listEmail = ['e-mail', 'endereço eletrônico', 'endereco eletronico', 'endereço de e-mail']
         listPCD = ['p\.c\.d\.', 'pessoa com deficiência', 'pessoa com deficiencia']
         listCID = ['c\.i\.d\.', 'classificação internacional de doenças', 'classificacao internacional de doencas']
-        validated_word = ''
+        validated_word = '' # armazenar a categoria da palavra, se ela corresponder a uma das listas acima
 
+
+        # Verifica se algum valor da lista listaRG é igual a uma palavra que entrou
+        # está verificando desse jeito pois há uma lista de maneiras que pode ter sido escrito
         for value in listRG:
             if word.lower() == value:
                 validated_word = 'rg'
@@ -72,6 +79,7 @@ class Word:
                 validated_word = 'cid'
                 return validated_word
 
+        # Verifica word contra vários outros termos específicos e define validated_word para valores apropriados
         if word.lower() == 'número do documento' or word.lower() == 'numero do documento':
             validated_word = 'documento'
         elif word.lower() == 'titulo de eleitor' or word.lower() == 'número do título de eleitor' or word.lower() == 'numero do título de eleitor':
@@ -307,7 +315,7 @@ class Word:
         elif word.lower() == 'partido da frente liberal' or word.lower() == '\(pfl\)':
             validated_word = '(pfl)'
         elif word.lower() == 'partido geral dos trabalhadores' or word.lower() == '\(pgt\)':
-            validated_word = '(pgt)'        
+            validated_word = '(pgt)'
         elif word.lower() == 'partido municipalista brasileiro' or word.lower() == '\(pmr\)':
             validated_word = '(pmr)'
         elif word.lower() == 'partido social trabalhista' or word.lower() == '\(pst\)':
@@ -327,7 +335,10 @@ class Word:
         elif word.lower() == 'filiacao sindical':
             validated_word = 'filiação sindical'
 
+        # Se validated_word ainda for uma string vazia (ou seja, não houve correspondência),
+        # define validated_word como a word original.
         if validated_word == '':
             validated_word = word
 
+        # Retorna o valor de validated_word, que será a palavra categorizada ou validada.
         return validated_word
