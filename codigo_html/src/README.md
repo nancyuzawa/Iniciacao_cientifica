@@ -1,5 +1,7 @@
+OBS: em general_urls.txt é necessário que eu já tenha os links dos sites
+
 # Resumo dos arquivo
-## main.py
+## main.py0
 O script lê URLs de um arquivo, faz requisições HTTP para cada URL, verifica se o conteúdo é HTML, busca por palavras-chave no conteúdo HTML, calcula várias pontuações com base nas palavras-chave encontradas, e armazena os resultados em uma planilha Excel. Em caso de erros durante a requisição, registra as URLs problemáticas em um arquivo separado. Também inclui um atraso aleatório entre as requisições para evitar ser bloqueado por fazer muitas requisições em um curto período de tempo.
 ## sheet.py
 Este código define uma classe Sheet que facilita a manipulação de planilhas Excel usando o módulo openpyxl. A classe fornece métodos para configurar cabeçalhos, preencher linhas com dados específicos e salvar a planilha em um arquivo.
