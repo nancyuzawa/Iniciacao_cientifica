@@ -4,8 +4,8 @@ class Word:
     # Método:  Classifica uma palavra como pessoal ou sensível com base em listas de palavras-chave carregadas de arquivos.
     def categorize_word(self, word):
         # Transforma o arquivo .txt que está um embaixo do outro em uma lista
-        personal_keywords = open('scripts/keywords/personal-keywords.txt', encoding='UTF-8').read().splitlines() # splitlines() -> dividir uma string em uma lista de linhas.
-        sensible_keywords = open('scripts/keywords/sensible-keywords.txt', encoding='UTF-8').read().splitlines()        
+        personal_keywords = open('../scripts/keywords/personal-keywords.txt', encoding='UTF-8').read().splitlines() # splitlines() -> dividir uma string em uma lista de linhas.
+        sensible_keywords = open('../scripts/keywords/sensible-keywords.txt', encoding='UTF-8').read().splitlines()
         weight = 0 #  atribui um peso à palavra, dependendo de qual lista ela pertence.
 
         for element in personal_keywords: # iterando sobre cada palavra em personal_keywords
